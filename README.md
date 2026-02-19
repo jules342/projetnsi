@@ -1,2 +1,1 @@
-# projetnsi
-projet de nsi 
+# projet nsi
